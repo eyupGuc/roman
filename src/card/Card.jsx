@@ -18,8 +18,8 @@ const Card = () => {
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_the_Romani_people.svg/800px-Flag_of_the_Romani_people.svg.png"
         alt="roman"
       />
-      <h1>Kim Bunlar?</h1>
-      <p>
+      <h1>Kimdirler?</h1>
+      <p className="text-center" >
         Çingeneler, aslen Kuzey Hindistan kökenli olup günümüzde ağırlıklı
         olarak Avrupa'da yaşayan göçebe bir halk. Türkçede Roman sözcüğü de
         sıklıkla Çingene anlamında kullanılır. Hindistan'ın Pencap-Sind
@@ -27,15 +27,15 @@ const Card = () => {
         içinde bulunduğu bölgelerden M.S. 420 civarında İran ve Anadolu
         üzerinden dünyaya yayılmış bir Hint-Avrupa halkıdır.
       </p>
-      <Row>
+     
         {data.map((item) => {
           return (
-            <Col>
+            
               <CardItem {...item} key={item.id} />
-            </Col>
+          
           );
         })}
-      </Row>
+    
     </Container>
   );
 };
