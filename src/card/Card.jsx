@@ -18,7 +18,7 @@ const Card = () => {
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_the_Romani_people.svg/800px-Flag_of_the_Romani_people.svg.png"
         alt="roman"
       />
-      <h1>Kimdirler?</h1>
+      <h1>Romanlar</h1>
       <p className="text-center" >
         Çingeneler, aslen Kuzey Hindistan kökenli olup günümüzde ağırlıklı
         olarak Avrupa'da yaşayan göçebe bir halk. Türkçede Roman sözcüğü de
