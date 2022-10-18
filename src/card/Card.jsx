@@ -21,7 +21,7 @@ const Card = () => {
       <h1>Romanlar</h1>
       <p className="text-center" >
         Çingeneler, aslen Kuzey Hindistan kökenli olup günümüzde ağırlıklı
-        olarak Avrupa'da yaşayan göçebe bir halk. Türkçede Roman sözcüğü de
+        olarak Avrupa'da yaşayan göçebe bir halk. Türkçe de Roman sözcüğü de
         sıklıkla Çingene anlamında kullanılır. Hindistan'ın Pencap-Sind
         (Pakistan, Karaçi) nehir havzası boyunca Pakistan ve Afganistan'ın da
         içinde bulunduğu bölgelerden M.S. 420 civarında İran ve Anadolu
