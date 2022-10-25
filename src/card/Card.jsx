@@ -13,7 +13,7 @@ const Card = () => {
       style={{ background: "#f48b29" }}
     >
       <Image
-        className="mt-3"
+        className="mt-4"
         style={{ width: "400px" }}
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_the_Romani_people.svg/800px-Flag_of_the_Romani_people.svg.png"
         alt="roman"
